@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "c20dcea2af081c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "01be97735ac64274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5dbec9ee73ee4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions"
+            }
+          },
+          {
+            "id": "3236908c9d8fa45e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aurea Imaging/How to draw a line connecting detections to images in QGIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to draw a line connecting detections to images in QGIS"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fa1566d7032dac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "433bd97c207437aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "388ca5ef7debe6ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c9e787a2b5c3be2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78e41603de9eb2a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "462254b96e4a7b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d206c2769e3cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c40fcd8b63983202",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logging.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Logging"
+            }
+          },
+          {
+            "id": "1c60e6c6f1ab4d20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logging.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Logging"
+            }
+          },
+          {
+            "id": "ea8b5bb56fe50165",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "519a56015ef15dd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tree Positioning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tree Positioning"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5dbec9ee73ee4a9",
+  "lastOpenFiles": [
+    "Aurea Imaging/Tree Positioning.md",
+    "Aurea Imaging/How to draw a line connecting detections to images in QGIS.md",
+    "Pasted image 20250721110313.png",
+    "Pasted image 20250721110248.png",
+    "Pasted image 20250721100225.png",
+    "Pasted image 20250718114457.png",
+    "Aurea Imaging/Aurea Imaging.md",
+    "Computer Vision/Intrinsic Matrix.md",
+    "Images/Pasted image 20250715162335.png",
+    "Images/Pasted image 20250715160450.png",
+    "Images/Pasted image 20250715154634.png",
+    "Images/Pasted image 20250715150628.png",
+    "Images/Pasted image 20250715133221.png",
+    "Images/Pasted image 20250715133150.png",
+    "detection pipeline.md",
+    "Home.md",
+    "Markdown Cheat sheet.md",
+    "Map of Concepts.md",
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/Functions.md",
+    "Software Engineering/Logging.md",
+    "Software Engineering/Kubernetes.md",
+    "Software Engineering/Decorators.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Embeddings.md",
+    "Machine Learning/Self-Supervised Learning.md",
+    "Aurea Imaging",
+    "2025-07-15.md",
+    "Images",
+    "Computer Vision",
+    "Untitled.canvas",
+    "Machine Learning",
+    "Software Engineering",
+    "Self-Supervised Learning"
+  ]
+}

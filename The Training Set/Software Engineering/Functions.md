@@ -1,0 +1,1 @@
+Functions should either modify something or return something. not both
