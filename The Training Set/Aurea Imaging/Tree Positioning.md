@@ -38,6 +38,10 @@ Simulating a point moving past another point at 2m the distance plot looks like 
 The distance function is quadratic and the function should be differentiable at minimum so it makes sense that the aruco distance plateaus at the end
 
 ## Timing
+5km/h Zed Depth Aruco detections compared to Ground truth 
+Red- Without timing offsets
+Green - With 130 ms offset 
+![[Pasted image 20250724132825.png]]
 When we pushback the timestamp by 130ms things weirdly start looking better.
 ![[Pasted image 20250721100225.png]] 
 The orange points are Aruco markers with ZED depth, green are arucos with[ Perspective N-Point Algorithm](https://medium.com/@rashik.shrestha/perspective-n-point-pnp-f2c7dd4ef1ed) and Red Star is the ground truth
@@ -49,3 +53,7 @@ PNP:
 ![[Pasted image 20250721110313.png]]
 
 This shows that ZED depth is actually reliable 
+
+## Trunk Detection 
+## Matrix Calculation
+Doesn't improve the detections by a lot but the calculations are believed to be faster. But the effects need to be studied a bit.

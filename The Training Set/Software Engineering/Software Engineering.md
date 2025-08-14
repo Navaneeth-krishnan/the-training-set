@@ -4,4 +4,5 @@ Concepts:
 - [[Functions]]
 - [[Kubernetes]]
 - [[Decorators]]
-- 
+- [[Code review]]
+- SQL
